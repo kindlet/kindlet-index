@@ -3,7 +3,7 @@ An index of all the Kindlets I could find. Please make a PR to add some!
 
 Yes, there's an index on the [Wiki](https://wiki.mobileread.com/wiki/Kindlet_Index), but it seems rather out of date.
 
-## KUAL - You _NEED_ this!!!
+## KUAL (You *need* this!)
 
 The MOST USEFUL TOOL for Kindle development is KUAL. It allows you to do SO MUCH. You totally NEED it. Download it [here](http://www.mobileread.com/forums/showthread.php?t=203326).
 
