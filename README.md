@@ -45,3 +45,7 @@ You probably need advanced Kindle knowledge to run these...
 
 https://www.mobileread.com/forums/showthread.php?t=102386&highlight=kindlet
 
+
+## License
+
+All content is released into the public domain unless otherwise noted.
