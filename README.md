@@ -5,10 +5,10 @@ Yes, there's an index on the [Wiki](https://wiki.mobileread.com/wiki/Kindlet_Ind
 
 ## Utilities
 - [Kalculator](https://www.mobileread.com/forums/showthread.php?t=112848) - A simple calculator for Kindle ([Code](https://www.mobileread.com/forums/attachment.php?attachmentid=80037&d=1324068371))
-## Games
 ## Alternative Readers
 - [Liberator](https://www.mobileread.com/forums/showthread.php?t=198742)
 - [KPV](https://www.mobileread.com/forums/showthread.php?t=157047)
+## Games
 ### Interactive Fiction
 - [Kif](https://www.mobileread.com/forums/showthread.php?t=101876) - Play interactive fiction (ie Zork/Lurking Horror) on your Kindle ([Code](https://code.google.com/archive/p/adqmisc/downloads) - [Blog Post](https://blog.lidskialf.net/2010/11/01/kif-0-5/))
 - [Frotz - XTerm](https://www.mobileread.com/forums/showthread.php?t=186007)
